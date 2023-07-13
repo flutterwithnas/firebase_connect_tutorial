@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565420808676",
+    "project_id": "fir-connect-tutorial-34131",
+    "storage_bucket": "fir-connect-tutorial-34131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565420808676:android:af74965d76eb7d0a4a0ff1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connect_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565420808676-ts7ofkgs0k9dfk7pttbcquqh0b1hfcth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBteOXEmBNskxC2AMNnlWiUa8RcQ5qXk3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565420808676-ts7ofkgs0k9dfk7pttbcquqh0b1hfcth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
